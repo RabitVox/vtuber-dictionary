@@ -1,4 +1,4 @@
-# VTuber Name Dictionary
+# VTuber 名前辞書
 VTuberの名前をまとめた辞書データです。
 
 ## 使い方 (Usage)
